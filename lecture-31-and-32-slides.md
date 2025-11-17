@@ -65,7 +65,7 @@ Blunt ends: even-length ends from both single strands
 | HindIII | Haemophilus aegyptius                       | ↓ 5′ -AAGCTT- 3′ 3′ -TTCGAA- 5′ ↑ | Cohesive                      |
 | PvuII   | Proteus vulgaris                            | ↓ 5′ -GAGCTG- 3′ 3′ -GTCGAC- 5′ ↑ | Blunt                         |
 ### Notes:
-TABLE 19.1 Characteristics of some common type II restriction enzymes used in recombinant DNA technology
+Characteristics of some common type II restriction enzymes used in recombinant DNA technology
 
 <!-- Slide number: 11 -->
 
@@ -238,7 +238,7 @@ Note: 1 kb = 1000 bp. Electroporation is the use of electrical pulses to increas
 ![An illustration shows various regions of an E coli expression vector. The vector shows two concentric circles very close to one another. Ori (origin of replication) is labeled on the bottom center of the vector. A large arc on the circles on center right is labeled selectable marker, such as antibiotic resistance. On the bottom left, it shows a region with genes encoding repressor that binds O and regulates P. In between these genes and selectable marker, various sites are labeled. Their sequence from left to right is as follow: bacterial promoter sequences (P), operator (O), transcription initiation sequences, multiple restriction sites, and the transcription-termination sequence. Captions in the illustration read as follows: “Expression vectors contain operon sequences that allow inserted D N A to be transcribed and translated. They also include sequences that regulate—turn on or turn off—the desired gene.”](images/09.png)
 
 ### Notes:
-19.8 To ensure transcription and translation, a foreign gene may be inserted into an expression vector. In this example, an E. coli expression vector has been used.
+To ensure transcription and translation, a foreign gene may be inserted into an expression vector. In this example, an E. coli expression vector has been used.
 
 <!-- Slide number: 51 -->
 # 19.3 Specific DNA Fragments Can Be Amplified
